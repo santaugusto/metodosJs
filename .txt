@@ -1,0 +1,7 @@
+Era uma vez na Universidade Federal Da Bahia, um grupo de estudantes que estava planejando um desafio muito especial. Eles decidiram coletar informações sobre seus colegas para criar uma lista de dados válidos e, ao mesmo tempo, transformar isso em um desafio emocionante.
+
+Primeiro, eles coletaram o nome, a idade, o email, o telefone e a renda de vários estudantes. No entanto, sabiam que a verificação de email era crucial para garantir que os dados fossem precisos. Eles criaram uma lista chamada "dadosValidos" que continha tanto o email quanto o telefone verificados.
+
+Com os dados em mãos, eles se prepararam para o próximo passo do desafio. Decidiram dividir a lista em duas: uma para os estudantes com mais de 25 anos e outra para os estudantes com menos de 25 anos. Em seguida, ordenaram ambas as listas em ordem alfabética.
+
+O desafio estava apenas começando. Agora, eles precisavam verificar a renda de cada pessoa. Queriam saber se a renda de cada estudante era maior que 2000. Se fosse, o nome do estudante seria incluído em uma lista especial chamada "Lista de Sucesso".
