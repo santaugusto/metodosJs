@@ -1,10 +1,19 @@
+                                                         STEP 1
+
 Universidade Federal Da Bahia decidiu coletar informações sobre seus alunos para criar uma lista de dados válidos e o objetivo final dessa aplicação é usar as diferentes listas criadas para disparar emails personalizados para cada situação.
 
-Agora, eles coletaram o nome, a idade, o email, o telefone e a renda de vários estudantes para fazer a verificação de email que era crucial para garantir que os dados fossem precisos. Eles criaram uma lista chamada "dadosValidos" que continha tanto o email quanto o telefone verificados.
+Agora, eles coletaram o nome, a idade, o email, o telefone e a renda de vários estudantes e para garantir que os emails seriam enviados para pessoas reais é necessario fazer a verificação de email que era crucial para garantir que os dados fossem precisos. Eles criaram uma lista chamada "dadosValidos" que continha tanto o email quanto o telefone verificados.
+
+                                                        STEP 2
 
 Para calcular o desvio padrão das rendas dos estudantes,vamos criar um indicador que ajudava a identificar aqueles com rendas significativamente acima ou abaixo da média. Esse desvio padrão permiti à universidade reconhecer os estudantes que estavam enfrentando desafios financeiros e oferecer assistência adicional, bem como reconhecer aqueles que eram financeiramente bem-sucedidos.
-Os estudantes sabiam que a universidade estava comprometida em apoiar tanto os que precisavam de ajuda quanto aqueles que contribuíam significativamente para a comunidade universitária. O endpoint "/destaquesFinanceiros" ajudava a alcançar esse objetivo ao destacar estudantes com rendas excepcionais, sejam elas altas ou baixas.
+Os estudantes sabiam que a universidade estava comprometida em apoiar tanto os que precisavam de ajuda quanto aqueles que contribuíam significativamente para a comunidade universitária. 
+
+                                                        
 O uso do desvio padrão tornava a análise de dados mais sofisticada e estratégica, permitindo à universidade tomar decisões informadas sobre como melhorar o suporte financeiro e reconhecer o mérito dos estudantes.
 No final, a Universidade Mundial Da Bahia não apenas melhorou seu apoio financeiro, mas também demonstrou seu compromisso com a comunidade acadêmica. Era uma jornada emocionante de descoberta e inovação que destacava a importância da análise de dados para a gestão empresarial em um ambiente acadêmico.
 
+A variância é uma medida estatística que indica o quão dispersos estão os valores de um conjunto de dados em relação à média desse conjunto. No contexto desta aplicação, o cálculo da variância das rendas dos estudantes permite avaliar o quão as rendas individuais se afastam da média de renda da população estudantil.
+
+                                                        STPE 3
 Com os dados em mãos, eles se prepararam para o próximo passo do desafio. Decidiram dividir a lista em duas: uma para os estudantes com mais de 25 anos e outra para os estudantes com menos de 25 anos. Em seguida, ordenaram ambas as listas em ordem alfabética.
